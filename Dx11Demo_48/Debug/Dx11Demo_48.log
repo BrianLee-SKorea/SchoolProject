@@ -1,0 +1,30 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see E:\OneDrive\OneDrive - 청강문화산업대학교\강의_new\학교 교과과정\Shader Programming\DX11\Dx11Demo_48\Debug\depth_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see E:\OneDrive\OneDrive - 청강문화산업대학교\강의_new\학교 교과과정\Shader Programming\DX11\Dx11Demo_48\Debug\depth_vs.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see E:\OneDrive\OneDrive - 청강문화산업대학교\강의_new\학교 교과과정\Shader Programming\DX11\Dx11Demo_48\Debug\shadow_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see E:\OneDrive\OneDrive - 청강문화산업대학교\강의_new\학교 교과과정\Shader Programming\DX11\Dx11Demo_48\Debug\shadow_vs.cso
+  stdafx.cpp
+  CameraClass.cpp
+  D3DClass.cpp
+  DDSTextureLoader.cpp
+  DepthShaderClass.cpp
+  Dx11Demo_48.cpp
+  GraphicsClass.cpp
+  InputClass.cpp
+  LightClass.cpp
+  ModelClass.cpp
+  PositionClass.cpp
+  RenderTextureClass.cpp
+  ShadowShaderClass.cpp
+  SystemClass.cpp
+  TextureClass.cpp
+  TimerClass.cpp
+  코드를 생성하고 있습니다...
+  Dx11Demo_48.vcxproj -> E:\OneDrive\OneDrive - 청강문화산업대학교\강의_new\학교 교과과정\Shader Programming\DX11\Dx11Demo_48\Debug\Dx11Demo_48.exe

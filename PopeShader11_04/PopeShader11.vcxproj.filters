@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WfWindow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D3D.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IShader.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorShader.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShader.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IModel.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelCube.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstantBuffer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LightShader.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomVertexType.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicShader.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelSphere.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ToonShader.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{9496217f-271c-4123-9598-2ee7fb2bb800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{ff48aa2d-ef3f-460e-a9da-26884d4a6208}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{58758f8d-62ba-4615-baa9-56fce8033462}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{339bb857-47c7-444f-97fe-22230f34379e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WfWindow.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="D3D.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="IShader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorShader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Audio.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CommonStates.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DDSTextureLoader.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DirectXHelpers.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Effects.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\GamePad.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\GeometricPrimitive.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\GraphicsMemory.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Keyboard.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Model.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Mouse.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\PostProcess.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\PrimitiveBatch.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\ScreenGrab.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\SimpleMath.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\SpriteBatch.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\SpriteFont.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\VertexTypes.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\WICTextureLoader.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\XboxDDSTextureLoader.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomConstantBufferType.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomVertexType.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="IModel.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelCube.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstantBuffer.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LightShader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelSphere.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicShader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ToonShader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="ColorShader.fx">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="RedShader.fx">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="TextureShader.fx">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="BasicShader.fx">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="back_LightShader.fx">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="ToonShader.fx">
+      <Filter>Shader</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Include\SimpleMath.inl">
+      <Filter>DXUT</Filter>
+    </None>
+    <None Include="LightShader.fx">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
